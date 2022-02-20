@@ -47,7 +47,7 @@
 ## 📞 Connect with me:
 
 <!-- Discord-->
-<a href="#" target="_blank">
+<a href="https://discord.com/users/Techno%20Magician%20ROS#1402" target="_blank">
 <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <!-- Facebook -->
@@ -72,7 +72,7 @@
 </a>
 <br/>
 <!--MYANIMELIST-->
-<a href="#" target="_blank">
+<a href="https://myanimelist.net/profile/technomagician" target="_blank">
 <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/>
 </a>
 
