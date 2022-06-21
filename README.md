@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="250px" src="https://www.bankleumiusa.com/wp-content/uploads/2015/10/banner-industry-tech.jpg" /></a>
 
 <h1><img src="https://cdna.artstation.com/p/assets/images/images/020/833/710/original/francesco-montibello-gandalf-1.gif?1569345311" width="30"/> A legendary programmer was summoned!</h1>
-<h3 align="center"> Hey👋, I'm Rigoberto, a passionate self-taught 22 years old data scientist from Mexico 🇲🇽. I love videogames, anime/manga, books but especially I really love to try new technologies such as Virtual Reality, Augmented Reality, Artificial Intelligence and Robotics! I learnt to write code when I was only 12 years old and since that time I have never stopped coding. If you are looking for a freelancer who can work with big amounts of data or machine learning related stuff, let's connect! I'd be glad to help you! <br><br>  Currently studying <strong>Software engineering</strong> and a <strong> Master in "Big Data and Visual Analytics" </strong>.
+<h3 align="center"> Hey👋, I'm Rigoberto, a passionate software engineer from Mexico 🇲🇽. I love videogames, anime/manga, books but especially I really love to try new technologies such as Virtual Reality, Augmented Reality, Artificial Intelligence and Robotics! I learnt to write code when I was only 12 years old and since that time I have never stopped coding. If you are looking for a freelancer who can work with big amounts of data or machine learning related stuff, let's connect! I'd be glad to help you! <br><br>
 </h3>
 <br>
 
